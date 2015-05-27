@@ -1,5 +1,7 @@
 # Ant Colony Optimization for Energy Systems Configuration
 
+[![Join the chat at https://gitter.im/gilgeorges/antsearch](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gilgeorges/antsearch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The project [CHP-swarm](http://www.chpswarm.ethz.ch) investigates the potential of decentralized, biogas fueld CHP (Combined Heat and Power) plants to provide balancing power for fluctuating PV (PhotoVoltaics) loads.
 Among other things, at the ETHZ-LAV Energy Systems Group, we are charged with selecting suitable production sites.
 That amounts to a combinatorial optimization problem, constrained by the regionally limited biogas potentials, the heat demand at intended installation sites and grid constraints.
